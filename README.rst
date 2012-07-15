@@ -28,6 +28,7 @@ Contributors
 -------------
 * `Christopher Clarke <https://github.com/chrisdev>`_
 * `Lendl R Smith <https://github.com/ilendl2>`_
+* `Terrence Stewart <https://github.com/trapstar137>`_
 
 
 
